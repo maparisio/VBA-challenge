@@ -1,3 +1,10 @@
+'-----------------------------------------------------------------------------------
+' CREATE A SCRIPT TO LOOP THROUGH ALL STOCKS FOR ONE YEAR AND OUTPUTS THE FOLLOWING:
+        ' TICKER SYMBOL
+        ' YEARLY CHANGE FROM OPEING PRICE TO CLOSING PRICE FOR EACH YEAR
+        ' PERCENTAGE CHANGE FROM THE OPEING PRICE TO THE CLOSING PRICE FOR EACH YEAR
+        ' TOTAL STOCK VOLUME FOR EACH TICKER SYMBOL
+'-----------------------------------------------------------------------------------
 VERSION 1.0 CLASS
 BEGIN
   MultiUse = -1  'True
